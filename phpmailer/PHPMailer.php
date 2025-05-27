@@ -31,6 +31,9 @@ namespace PHPMailer\PHPMailer;
  */
 class PHPMailer
 {
+    // Add the following use statement for LoggerInterface
+    use Psr\Log\LoggerInterface;
+
     const CHARSET_ASCII = 'us-ascii';
     const CHARSET_ISO88591 = 'iso-8859-1';
     const CHARSET_UTF8 = 'utf-8';
