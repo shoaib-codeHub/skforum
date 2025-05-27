@@ -8,7 +8,7 @@
 
 > Replace these links with actual image paths from your project
 
-- ![Homepage Screenshot](screenshots/homepage.png)
+- ![Homepage Screenshot]([screenshots/homepage.png](https://github.com/shoaib-codeHub/skforum/blob/2f6df879d513c83bfc3af6c205d35d68a0562fca/Screenshot%202025-05-27%20145552.png))
 - ![Login Modal](screenshots/login-modal.png)
 - ![Discussion View](screenshots/discussion-view.png)
 - ![Search with Pagination](screenshots/search-pagination.png)
