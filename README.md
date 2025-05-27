@@ -11,7 +11,7 @@
 - ![Homepage Screenshot](https://github.com/shoaib-codeHub/skforum/blob/2f6df879d513c83bfc3af6c205d35d68a0562fca/Screenshot%202025-05-27%20145552.png)
 - ![Login Modal](https://github.com/shoaib-codeHub/skforum/blob/3136f7ebdeea2ae197b677e7341b1ad32d3234ba/Screenshot%202025-05-27%20145649.png)
 - ![Discussion View](https://github.com/shoaib-codeHub/skforum/blob/88940e621061bda778466566d1b06cbe93ecd037/Screenshot%202025-05-27%20145749.png)
-- ![Search with Pagination](screenshots/search-pagination.png)
+- ![Search with Pagination](https://github.com/shoaib-codeHub/skforum/blob/c7534cff7e46c8a3eb373d6ee03761dcb254685b/Screenshot%202025-05-27%20145850.png)
 
 ---
 
